@@ -9,7 +9,7 @@ Instructions about how to use it:
 
 To run this website:
 
-Clone the Repository: Open a terminal and run: git clone https://github.com/Lolisolera/Keeper-App.git cd Keeper-App
+Clone the Repository: Open a terminal and run: git clone https://github.com/Lolisolera/Emojipedia.git cd Emojipedia
 
 Install Dependencies: Ensure you have Node.js installed, then install dependencies with: npm install
 
