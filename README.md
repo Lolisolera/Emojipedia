@@ -13,18 +13,14 @@ Clone the Repository: Open a terminal and run: git clone https://github.com/Loli
 
 Install Dependencies: Ensure you have Node.js installed, then install dependencies with: npm install
 
-Run the App Start the app locally with: npm start
+Run the App - Start the app locally with: npm start
 
-Use the App You can now add or delete tasks in the to-do list as intended!
+You can now access the webiste locally on localhost 3000
 
-Alternatively use the app live here: https://nvv97h.csb.app/
-
-To interact with this App: Adding Tasks In the text field, type in a task you want to add to your to-do list. Once you've entered it, click the plus (+) icon to add the task to the list.
-
-Deleting Tasks To remove a task, click on the bin icon next to it, and it will be removed from your list.
+Alternatively use the app live here: https://codesandbox.io/p/sandbox/emojipedia-gn976h
 
 Technologies Used HTML/CSS, JavaScript, Node.js, REACT
 
-NOTE: this app will help you keep track of your daily tasks 😄
+NOTE: I've been using emojis for a long time now and didn't really know their real meanings... Did you? 😱
 
 Created by Lola Marquez 👽
