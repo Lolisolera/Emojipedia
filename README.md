@@ -21,6 +21,12 @@ Alternatively use the app live here: https://codesandbox.io/p/sandbox/emojipedia
 
 Technologies Used HTML/CSS, JavaScript, Node.js, REACT
 
-NOTE: I've been using emojis for a long time now and didn't really know their real meanings... Did you? 😱
+NOTE: This project uses npm for dependency management (package.json + package-lock.json).
+Please use npm install instead of Yarn.
+
 
 Created by Lola Marquez 👽
+
+I've been using emojis for a long time now and didn't really know their real meanings... Did you? 😱
+
+
